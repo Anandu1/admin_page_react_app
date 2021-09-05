@@ -1,0 +1,11 @@
+
+
+.container{
+  display: flex;
+  flex: 1;
+  top: 10px;
+}
+.others{
+  flex: 4;
+}
+
